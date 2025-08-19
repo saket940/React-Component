@@ -1,4 +1,4 @@
-import React from 'react';
+// React import not needed with automatic JSX runtime
 
 import { Button } from './Button';
 import './header.css';

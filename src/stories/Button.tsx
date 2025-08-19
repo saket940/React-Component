@@ -1,4 +1,4 @@
-import React from 'react';
+// React import not needed with automatic JSX runtime
 
 import './button.css';
 
